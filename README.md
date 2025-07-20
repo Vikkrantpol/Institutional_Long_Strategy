@@ -1,10 +1,10 @@
 # Institutional Buying Strategy (Proprietary)
 
 This strategy is developed by me, based on my knowledge and studies.
-A powerful, high-precision breakout strategy designed to mirror institutional accumulation behavior.  
+This is a powerful, high-precision breakout strategy designed to mirror institutional accumulation behavior.  
 Developed from scratch using Pine Script v6 and backtested on TradingView, this strategy has consistently identified explosive breakout moves across multiple asset classes.
 
-> ⚠️ **IMPORTANT:**  
+>  **IMPORTANT:**  
 > The core logic and implementation of this strategy are strictly proprietary.  
 > This repository exists solely to demonstrate authorship and backtest results.  
 > **Any form of reuse, redistribution, or reverse-engineering is prohibited.**
@@ -23,7 +23,7 @@ It dynamically adapts to market conditions and asset behavior using price–volu
 
 ---
 
-## 🚀 Highlights
+##  Highlights
 
 - 🔒 Proprietary breakout strategy inspired by institutional buying patterns
 - ✅ Works across all liquid assets: stocks, crypto, indices, ETFs
@@ -31,8 +31,9 @@ It dynamically adapts to market conditions and asset behavior using price–volu
 - 💰 Returns of **1000% – 2000%** on high-momentum assets
 - 📊 Built with complete automation:
   - Precise breakout entry
-  - 5% stop-loss management
-  - 10% trailing exit
+  - Stop-loss management
+  - Trailing SL management
+  - Partial Exit
   - Final trend-based exit using DEMA
 
 ---
@@ -64,10 +65,10 @@ Violations may result in legal action under international IP laws.
 
 ---
 
-## 🧠 Built With
+## Built With
 
 - Pine Script v6 (TradingView)
-- 3+ years of real trading experience
+- 3+ years of real trading experience, hard work, and case studies.
 - Advanced chart reading and volume behavior techniques
 - Modular trade management and breakout validation filters
 
@@ -75,10 +76,10 @@ Violations may result in legal action under international IP laws.
 
 ## 👨‍💻 Author
 
-**[Your Full Name]**  
-Final Year, B.Tech (IIT) | Quant Strategy Developer  
-📧 [your.email@example.com]  
-🔗 GitHub: [github.com/yourusername]
+**Vikkrant Pol**  
+B.Tech IIT Goa | Profitable Quant Strategy Developer, Quant Trader, Equity Trader
+[Vikkrantpol@gmail.com]  
+
 
 ---
 
