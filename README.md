@@ -25,6 +25,22 @@ Developed from scratch using Pine Script v6 and backtested on TradingView, this 
 ### Equity Curve (NVIDIA):
 <img width="1490" height="517" alt="Screenshot 2025-07-20 at 10 17 43" src="https://github.com/user-attachments/assets/ad73b04f-8124-4070-9363-49ffbb4a92be" />
 
+### Equity Curve (GRSE):
+<img width="1493" height="516" alt="Screenshot 2025-07-20 at 10 17 59" src="https://github.com/user-attachments/assets/0d73db19-19c0-444c-8a03-766f990ace35" />
+
+### Equity Curve (BSE): 
+<img width="1499" height="519" alt="Screenshot 2025-07-20 at 10 18 29" src="https://github.com/user-attachments/assets/d3a69ba3-7f40-4833-a741-556e2a185564" />
+
+### Equity Curve (GOODLUCK): 
+<img width="1496" height="513" alt="Screenshot 2025-07-20 at 10 18 15" src="https://github.com/user-attachments/assets/7197af54-1f1e-427c-890a-c4a90ff4c4b1" />
+
+### Equity Curve (BTC):
+<img width="1494" height="510" alt="Screenshot 2025-07-20 at 10 18 55" src="https://github.com/user-attachments/assets/6dc5fa0a-501d-4a9f-913a-5dd099581977" />
+
+### Equity Curve (TSLA):
+<img width="1499" height="516" alt="Screenshot 2025-07-20 at 10 18 43" src="https://github.com/user-attachments/assets/4059f384-93e8-4d1d-beb0-f5cf4741c788" />
+
+
 ## 🌍 Universally Applicable
 
 This strategy is designed to be **universally effective** across:
