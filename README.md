@@ -22,6 +22,8 @@ Developed from scratch using Pine Script v6 and backtested on TradingView, this 
 | BTC               | 4 Hours       | 1083%       |
 | TSLA              | 75 min        | 2179%       |
 
+### You can check out more details about trades in the "List of Trades" folder
+
 ### Equity Curve (NVIDIA):
 <img width="1490" height="517" alt="Screenshot 2025-07-20 at 10 17 43" src="https://github.com/user-attachments/assets/ad73b04f-8124-4070-9363-49ffbb4a92be" />
 
