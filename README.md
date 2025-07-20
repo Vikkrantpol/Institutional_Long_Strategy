@@ -52,7 +52,7 @@ It dynamically adapts to market conditions and asset behavior using price–volu
 
 ---
 
-## ❌ Usage Restrictions
+##  Usage Restrictions
 
 This strategy and all its components are the **intellectual property of the author**.  
 By accessing this repository, you agree to the following:
@@ -74,7 +74,7 @@ Violations may result in legal action under international IP laws.
 
 ---
 
-## 👨‍💻 Author
+## Author
 
 **Vikkrant Pol**  
 B.Tech IIT Goa | Profitable Quant Strategy Developer, Quant Trader, Equity Trader
@@ -83,7 +83,7 @@ B.Tech IIT Goa | Profitable Quant Strategy Developer, Quant Trader, Equity Trade
 
 ---
 
-## 📷 Screenshots (Optional)
+##  Results and Equity Curve
 
 Include 2–3 annotated charts from TradingView showing breakout entries, labeled buys, and exits across stocks or crypto. Store them in `/screenshots/`.
 
