@@ -1,0 +1,1 @@
+# Institutional_Long_Strategy
