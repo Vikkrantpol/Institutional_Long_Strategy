@@ -85,6 +85,15 @@ B.Tech IIT Goa | Profitable Quant Strategy Developer, Quant Trader, Equity Trade
 
 ##  Results and Equity Curve
 
+| Ticker            | TF            | Total Pnl % |
+|-------------------|---------------|-------------|
+| NVDA              | 30 min        | 502%        |
+| GRSE              | 30 min        | 1076%       |
+| BSE               | 45 min        | 1786%       |
+| GOODLUCK          | 45 min        | 2458%       |
+| BTC               | 4 Hours       | 1083%       |
+| TSLA              | 75 min        | 2179%       |
+
 Include 2–3 annotated charts from TradingView showing breakout entries, labeled buys, and exits across stocks or crypto. Store them in `/screenshots/`.
 
 ---
